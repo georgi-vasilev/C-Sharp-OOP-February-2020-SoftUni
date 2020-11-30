@@ -1,0 +1,13 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache

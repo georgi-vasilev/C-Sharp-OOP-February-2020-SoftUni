@@ -1,0 +1,13 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

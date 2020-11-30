@@ -1,0 +1,12 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\bin\Debug\netcoreapp2.1\INStock.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\bin\Debug\netcoreapp2.1\INStock.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\bin\Debug\netcoreapp2.1\INStock.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\obj\Debug\netcoreapp2.1\INStock.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\obj\Debug\netcoreapp2.1\INStock.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\obj\Debug\netcoreapp2.1\INStock.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\obj\Debug\netcoreapp2.1\INStock.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\TDD-INStock - Skeleton-Lab\INStock\obj\Debug\netcoreapp2.1\INStock.genruntimeconfig.cache

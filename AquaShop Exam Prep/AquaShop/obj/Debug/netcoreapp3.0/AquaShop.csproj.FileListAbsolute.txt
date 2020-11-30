@@ -1,0 +1,13 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\AquaShop Exam Prep\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

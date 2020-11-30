@@ -1,0 +1,13 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

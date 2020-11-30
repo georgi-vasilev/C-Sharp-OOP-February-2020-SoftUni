@@ -1,0 +1,11 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb

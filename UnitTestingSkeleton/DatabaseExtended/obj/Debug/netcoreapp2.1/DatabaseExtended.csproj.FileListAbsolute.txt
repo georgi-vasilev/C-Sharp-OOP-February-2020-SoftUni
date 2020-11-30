@@ -1,0 +1,9 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\UnitTestingSkeleton\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

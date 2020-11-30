@@ -1,0 +1,11 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\PlayersAndMonsters\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb

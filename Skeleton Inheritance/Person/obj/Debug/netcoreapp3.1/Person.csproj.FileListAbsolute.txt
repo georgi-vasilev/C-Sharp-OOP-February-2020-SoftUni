@@ -1,0 +1,11 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Person\obj\Debug\netcoreapp3.1\Person.pdb

@@ -1,0 +1,13 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\Vehicles.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\Vehicles.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\bin\Debug\netcoreapp3.1\Vehicles.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\Vehicles.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\Vehicles.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\Vehicles.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\PolymorphismExercise\PolymorphismExercise\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

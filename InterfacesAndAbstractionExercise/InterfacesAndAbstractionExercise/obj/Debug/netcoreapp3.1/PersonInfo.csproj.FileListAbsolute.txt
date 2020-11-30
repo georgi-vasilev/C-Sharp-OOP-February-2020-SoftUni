@@ -1,0 +1,13 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\InterfacesAndAbstractionExercise\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

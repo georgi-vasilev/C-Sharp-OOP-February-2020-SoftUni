@@ -1,0 +1,11 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\Skeleton Inheritance\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache

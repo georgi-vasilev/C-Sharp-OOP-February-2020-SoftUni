@@ -1,0 +1,13 @@
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\obj\Debug\netcoreapp3.1\MilitaryElit.csprojAssemblyReference.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\obj\Debug\netcoreapp3.1\MilitaryElit.AssemblyInfoInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\obj\Debug\netcoreapp3.1\MilitaryElit.AssemblyInfo.cs
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\obj\Debug\netcoreapp3.1\MilitaryElit.csproj.CoreCompileInputs.cache
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\bin\Debug\netcoreapp3.1\MilitaryElit.exe
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\bin\Debug\netcoreapp3.1\MilitaryElit.deps.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\bin\Debug\netcoreapp3.1\MilitaryElit.runtimeconfig.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\bin\Debug\netcoreapp3.1\MilitaryElit.runtimeconfig.dev.json
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\bin\Debug\netcoreapp3.1\MilitaryElit.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\bin\Debug\netcoreapp3.1\MilitaryElit.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\obj\Debug\netcoreapp3.1\MilitaryElit.dll
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\obj\Debug\netcoreapp3.1\MilitaryElit.pdb
+D:\Vasilev\Workspace\C#\C#  OOP February 2020 SoftUni\InterfacesAndAbstractionExercise\MilitaryElit\obj\Debug\netcoreapp3.1\MilitaryElit.genruntimeconfig.cache
